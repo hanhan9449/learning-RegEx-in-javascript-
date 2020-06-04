@@ -15,7 +15,7 @@
 ## 目录
 
 - [x] 列出目录
-- [x] [正则表达式对于解决问题的意义](./articles/the significance of RegEx in solving problems.md)
+- [x] [正则表达式对于解决问题的意义](https://github.com/hanhan9449/learning-RegEx-in-javascript-/blob/master/articles/the%20significance%20of%20RegEx%20in%20solving%20problems.md)
 - [ ] 学会看懂正则表达式
 - [ ] javascript中的正则表达式
 - [ ] 正则表达式之"+"
